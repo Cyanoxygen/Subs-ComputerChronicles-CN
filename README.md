@@ -2,6 +2,10 @@
 
 《Computer Chronicles》 中文字幕项目
 
+## License
+
+Licensed under Creative Commons BY-NC 4.0.
+
 ## 关于本项目
 
 本项目主要为 《Computer Chronicles》 提供翻译并制作简体中文字幕。
